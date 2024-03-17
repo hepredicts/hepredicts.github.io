@@ -51,7 +51,7 @@ body{
   margin-right: 2px;
 }
 .section {
-      background-image: url('../img/football.jpg');
+      background-image: url('football.jpg');
       background-size: cover;
       height: 200px;
       width:100%;
