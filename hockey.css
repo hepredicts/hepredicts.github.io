@@ -54,7 +54,7 @@ body{
       background-image: url('hockey-section.jpg');
       background-size: cover;
       background-position:center;
-      height: 270px;
+      height: 250px;
       width:100%;
       display: flex;
       justify-content: center;
@@ -95,7 +95,7 @@ font a:active{
   text-decoration: none;
 }
 table {
-    font-size: 9px;
+    font-size: 11px;
     color:blue;
     margin-top: 5px;
     width: 95%;
@@ -105,7 +105,7 @@ table {
 }
 #date{
   margin: 3px;
-  font-size: 8px;
+  font-size: 10px;
   padding: 5px 5px 2px 5px;
   background-color: lavender;
 }
