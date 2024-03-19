@@ -133,13 +133,12 @@ caption{
 }
 footer{
   background-color: lavender;
-  width:100%;
   color:blue;
-  left:0;
   text-align: center;
+  margin-top: 30px;
   padding: 30px;
+  bottom: 0;
   font-size: 13px;
-  bottom:0;
 }
 .days{
   display: flex;
