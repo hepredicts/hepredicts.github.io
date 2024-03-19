@@ -51,9 +51,9 @@ body{
   margin-right: 2px;
 }
 .section {
-      background-image: url('../img/basketball ball.jpg');
+      background-image: url('basketball ball.jpg');
       background-size: cover;
-      height: 200px;
+      height: 300px;
       width:100%;
       display: flex;
       justify-content: center;
