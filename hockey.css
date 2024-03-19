@@ -53,8 +53,8 @@ body{
 .section {
       background-image: url('hockey-section.jpg');
       background-size: cover;
-      background-position: center;
-      height:400px;
+      background-position:center;
+      height: 300px;
       width:100%;
       display: flex;
       justify-content: center;
