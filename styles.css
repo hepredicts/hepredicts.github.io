@@ -139,6 +139,8 @@ footer{
   margin-top: 30px;
   padding: 30px;
   font-size: 13px;
+  position:fixed;
+  bottom:0;
 }
 .days{
   display: flex;
