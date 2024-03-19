@@ -51,10 +51,10 @@ body{
   margin-right: 2px;
 }
 .section {
-      background-image: url('Handball-ball.jpg');
+      background-image: url('handball-ball.jpg');
       background-size: cover;
       background-position: center;
-      height: 200px;
+      height: 250px;
       width:100%;
       display: flex;
       justify-content: center;
