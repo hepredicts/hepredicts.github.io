@@ -1,0 +1,174 @@
+
+body{
+  background-color:e6f7ff;
+ margin-top:50px;
+  margin-right:0px;
+  margin-left: 0px;
+}
+#logo{
+  width:130px;
+  height: 50px;
+  
+}
+#dropdown{
+  
+}
+#dropdown button{
+  padding: 5px;
+  font-size: 35px;
+  color:orange;
+  border: none;
+  background-color: #fff;
+  width:100%;
+}
+.display-menu a{
+  display:none ;
+}
+#dropdown:hover .display-menu a{
+  text-align: center;
+  text-decoration: none;
+  border: 1px solid orange;
+  color:orange;
+  display: block;
+  padding:5px;
+  background-color: #f9f9f9;
+}
+#header{
+  position:fixed;
+  height:120px;
+  width:100%;
+  top:0px;
+}
+.nav{
+  background-color: #fff;
+  padding:10px 0px 10px 10px;
+  display: flex;
+  justify-content: space-between;
+  width:auto;
+}
+.main{
+  margin-top: 100px;
+  margin-right: 2px;
+}
+.section {
+      background-image: url('../img/basketball ball.jpg');
+      background-size: cover;
+      height: 200px;
+      width:100%;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      color: #fff;
+      text-align: center;
+      font-size: 24px;
+      font-weight: bold;
+}
+.content{
+  margin: 20px;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  color:orange;
+}
+.head{
+  margin-top: 60px;
+  padding:7px;
+}
+#menu{
+  color: #20B2AA;
+  padding-top:60px;
+  padding-bottom: 50px;
+  padding-left:7px;
+}
+#menu font{
+  border:1px solid #20B2AA;
+  padding:10px;
+}
+
+font a{
+  color:#20B2AA;
+  text-decoration: none;
+}
+font a:active{
+  color:orange;
+  text-decoration: none;
+}
+table {
+    font-size: 9px;
+    color:orange;
+    margin-top: 5px;
+    width: 95%;
+    border-collapse: collapse;
+    font-weight: bold;
+    margin: 10px;
+}
+#date{
+  margin: 3px;
+  font-size: 8px;
+  padding: 5px 5px 2px 5px;
+  background-color: lavender;
+}
+#date p{
+  margin:10px;
+  color:gray;
+}
+table, th, td {
+    border: 1px solid #ddd;
+}
+th, td {
+    padding: 5px;
+    text-align: center;
+}
+thead {
+    background-color: #f2f2f2;
+}
+tbody tr:nth-child(even) {
+    background-color: #f9f9f9;
+}
+caption{
+  background-color: darkred;
+  padding: 5px;
+  margin-top: 0;
+}
+footer{
+  background-color: lavender;
+  color:orange;
+  text-align: center;
+  margin-top: 30px;
+  padding: 30px;
+  font-size: 13px;
+}
+.days{
+  display: flex;
+  margin: 3px;
+  width:95%;
+  font-size: 5px;
+  padding: 5px 5px 2px 5px;
+  font-size: 9px;
+  justify-content: center;
+  align-items: center;
+  
+}
+.days button{
+  margin: 2px;
+  background-color: dodgerorange;
+  color:white;
+  font-weight: bold;
+}
+#last{
+  margin: 3px;
+  margin-top: 30px;
+  font-size: 16px;
+  font-weight: bold;
+  color:orange;
+  padding: 5px 5px 2px 5px;
+  background-color: lavender;
+}
+#last p{
+  font-size: 14px;
+  background-color: white;
+  color:orange;
+  font-weight: normal;
+  
+}
+
