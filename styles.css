@@ -133,6 +133,7 @@ caption{
 }
 footer{
   background-color: lavender;
+  width:100%;
   color:blue;
   text-align: center;
   margin-top: 30px;
