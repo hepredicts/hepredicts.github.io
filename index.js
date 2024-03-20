@@ -37,12 +37,12 @@ function adicionarTabelasDesporto() {
             <caption>${desporto.nome}</caption>
             <thead>
                 <tr>
-                    <th>Campeonato</th>
-                    <th>Equipe 1</th>
-                    <th>Equipe 2</th>
-                    <th>Palpite</th>
+                    <th>League</th>
+                    <th>Home</th>
+                    <th>Away</th>
+                    <th>Prediction</th>
                     <th>Odds</th>
-                    <th>Resultado</th>
+                    <th>Result</th>
                 </tr>
             </thead>
             <tbody id="corpo-tabela-${desporto.nome.replace(/\s/g, '-')}">
